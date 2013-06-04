@@ -1,8 +1,9 @@
 /*
- * USI_I2C_slave.h
+ * USI I2C slave library
  *
- *  Created on: 2013-5-9
- *      Author: li.houyu
+ * HouYu Li <karajan_ii@hotmail.com>
+ *
+ * No license applied. Use as you wish.
  */
 
 #ifndef USI_I2C_SLAVE_H_
